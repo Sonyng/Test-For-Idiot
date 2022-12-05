@@ -37,7 +37,8 @@ header {
     display: block;
     position: absolute;
     top: 30%;
-    left: 46%;
+    left: 45%;
+    transform: translate(-30%, -45%);
     background: rgb(51, 94, 43);
     
 }
@@ -49,7 +50,8 @@ header {
     display: block;
     position: absolute;
     top: 30%;
-    left: 52%;
+    left: 53%;
+    transform: translate(-30%, -53%);
     background: rgb(153, 26, 26);
 }
 
